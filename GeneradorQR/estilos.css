@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+    color: white;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(101,101,231,1) 29%, rgba(0,255,222,1) 79%);
+}
+
+
+button:hover{
+    background-color: aqua;
+}
